@@ -1,0 +1,3 @@
+p2 = Post(title="Another post",text="The second one created", author=all_users[0]).save()
+p3 = Post(title="The third one",text="With the word 'heffalump'",author=all_users[0]).save()
+p4 = Post(title="Posters are a great decoration",text="When you are a poor college student",author=all_users[0]).save()
